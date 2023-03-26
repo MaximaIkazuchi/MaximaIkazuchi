@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **MaximaIkazuchi/MaximaIkazuchi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## hello there.
+
+<p style="margin-bottom: 0">name Steven, high schooler <code><em><10th grade ~2023></em></code><br>i'm still a beginner and trying to learn what i can learn to gain my experience.</p>
+
+<p><strong>currently learning :<strong></p>
+<img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"></img>
+<img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white"></img>
