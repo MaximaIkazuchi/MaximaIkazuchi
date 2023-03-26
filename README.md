@@ -15,7 +15,8 @@ Here are some ideas to get you started:
 
 ## hello there.
 
-<p style="margin-bottom: 0">name Steven, high schooler <code><em><10th grade ~2023></em></code><br>i'm still a beginner and trying to learn what i can learn to gain my experience.</p>
+<p style="margin-bottom: 0">name Steven, high schooler <code><em><10th grade ~2023></em></code></p>
+<p>i'm still a beginner and trying to learn what i can learn to gain my experience.</p><br>
 
 <p><strong>currently learning :<strong></p>
 <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"></img>
