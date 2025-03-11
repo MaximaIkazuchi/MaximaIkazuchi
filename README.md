@@ -13,10 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## hello there.
+## hello there o/
 
-<p style="margin-bottom: 0">name Steven, high schooler <code><em><11th grade ~H2 2023></em></code></p>
-still a beginner, trying to learn anything to gain my experience.</p><br>
-
-<p><strong>currently learning :<strong></p>
-<img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white"></img>
+<p style="margin-bottom: 0">Name Steven, I'm high schooler <code><em>12th grade in ~H1 2025</em></code>.</p>
+Still a beginner, trying to learn anything to gain my experience.</p><br>
