@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 
 ## hello there o/
 
-<p style="margin-bottom: 0">Name Steven, I'm high schooler <code><em>12th grade in ~H2 2024</em></code>.</p>
+<p style="margin-bottom: 0">Name Steven, I'm a high schooler <code><em>12th grade in ~H2 2024</em></code>.</p>
 Still a beginner, trying to learn anything to gain my experience.</p><br>
